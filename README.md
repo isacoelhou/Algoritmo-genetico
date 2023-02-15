@@ -23,8 +23,3 @@ Maria Eduarda Crema Carlos
 
 Pedro Lucas Moraes
 
-
-
-Simulating anealing
-
-Entrada:  Arquivos  em  formato  txt  contendo na  primeira  linha  o  número  (NP)  de programadores disponíveis para o trabalho. Na linha seguinte é apresentada a quantidade de  módulos  (NM)  que  precisam  ser  desenvolvidos.  Nas  NP  linhas  seguintes  são apresentados os custos de cada programador para cada módulo. Cada coluno refere-se a um dos NM módulos. Em seguida são apresentadas NP linhas com as cargas horárias gastas  por  cada  programador  para  desenvolver  cada  um  dos  NM  módulos. Na  última linha do arquivo temos NP colunas que se referemà cada horária que cada programador tem disponível para a tarefa.
